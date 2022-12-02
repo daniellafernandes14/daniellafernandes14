@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/84285887/136813288-f88342ee-46fc-4fa3-9455-9f3d4dfbd517.png" width="100%" alt="banner">
 
-<p align="center">I'm a recent graduate of Le Wagon, London, where I completed a 10 week Web Development course. 
-<br>Currently TAing back on the course for the next batch of students and developing my JavaScript, React and Redux skills!
+<p align="center">I'm a graduate of Le Wagon, London, where I completed a 10 week Web Development course. 
+<br>Currently working at Lloyds Bank as a web developer and lecturing back on the course for the next batch of students!
 <br>I love Reading 📚, fascinated by Science 🔭, adore dogs 🦮 and, of course, completely engrossed by coding 💻!</p>
 
 <h3 align="center">Languages and Tools:</h3>
