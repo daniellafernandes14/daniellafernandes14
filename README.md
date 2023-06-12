@@ -5,7 +5,9 @@
 <br>I love Reading 📚, fascinated by Science 🔭, adore dogs 🦮 and, of course, completely engrossed by coding 💻!</p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
+<p align="center"> <a href="https://react.dev/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a> 
+                 <a href="https://nodejs.org/en" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
+                 <a href="https://www.ruby-lang.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> 
                  <a href="https://rubyonrails.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-plain.svg" alt="rails" width="40" height="40"/> </a> 
                  <a href="https://www.javascript.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/> </a> 
                  <a href="https://www.figma.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/> </a> 
@@ -16,5 +18,6 @@
                  <a href="https://getbootstrap.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> 
                  <a href="https://heroku.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/> </a>
                  <a href="https://yarnpkg.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" alt="yarn" width="40" height="40"/> </a> 
-                 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> </p>
+                 <a href="https://www.npmjs.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/> </a> 
+                 <a href="https://www.jenkins.io/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a> </p>
                  
