@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/84285887/136813288-f88342ee-46fc-4fa3-9455-9f3d4dfbd517.png" width="100%" alt="banner">
+<img src="https://github.com/daniellafernandes14/daniellafernandes14/assets/84285887/6c2d2e00-5a2d-467b-98a4-33c6e0d38d18" width="100%" alt="banner">
 
 <p align="center">I'm a graduate of Le Wagon, London, where I completed a 10 week Web Development course. 
 <br>Currently working at Lloyds Bank as a web developer and lecturing back on the course for the next batch of students!
